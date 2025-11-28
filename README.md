@@ -1,51 +1,58 @@
-# 👋 Hi, I'm Aswathi U K
-
-### 📊 Data Analyst | Python | Power BI | AI/ML Enthusiast
-
-I uncover insights from data to drive smarter decisions and meaningful outcomes.  
-🌱 *“Transforming scattered data trails into stories that inspire action and innovation.”* ✨
+<h1 align="center">Hi 👋, I'm Aswathi U K</h1>
+<h3 align="center">Data Analyst | AI/ML | Power BI | SQL</h3>
 
 ---
 
-### 🚀 Skills & Tools
-
-**Programming & Data Handling**
-- Python, NumPy, Pandas, Scikit-learn  
-- SQL  
-- Excel  
-
-**Visualization & Dashboards**
-- Power BI  
-- Matplotlib, Seaborn  
-
-**AI/ML**
-- Data Preprocessing  
-- Feature Engineering  
-- Model Training & Evaluation  
+✨ *Transforming data into intelligence that moves the world forward.*
 
 ---
 
-### 🧠 Interests & Current Focus
-- Strengthening Machine Learning skills  
-- Building insightful Power BI reports  
-- Improving data storytelling  
-- Career growth in Data Analytics & AI  
+### 🔗 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/aswathi-uk-auk034/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aswathi%20UK-blue?style=for-the-badge&logo=linkedin" /></a>
+</p>
 
 ---
 
-### 🌐 Connect with Me
-📩 Email: *your-email-here*  
-🔗 LinkedIn: [linkedin.com/in/aswathi-uk-auk034](https://www.linkedin.com/in/aswathi-uk-auk034/)
+### 🔥 Tech Stack
+
+**Languages & Data**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Data Science & ML**
+<p>
+<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+</p>
+
+**Visualization**
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-6BAED6?logo=python&logoColor=white" />
+</p>
 
 ---
 
-### 🌟 Fun Facts
-- 📚 Lifelong learner in tech  
-- ☕ Coffee-driven creativity  
-- 🔍 Always curious about how things work  
+### 📊 GitHub Stats & Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswathiuk&theme=radical" height="160"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
-![Aswathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight)
+### 🚀 Currently Working On
+- ML Projects & Data Analytics  
+- Advanced BI Dashboards  
+- Strengthening Python for Data Science  
 
+---
+
+### ☕ Fun Side of Me
+> Always learning. Always curious. Coffee helps. 😄  
