@@ -62,22 +62,3 @@
 | Data Cleaning Utilities | Reusable Power Query steps and Python scripts to standardize datasets. | Power Query, Python |
 
 ---
-
-## ✨ What Makes This README “Best” (and why)
-- Clean intro + single strong personal line (human, memorable).  
-- Visual badges for quick scanning by recruiters.  
-- Live stat cards and streaks for social proof.  
-- Short project blurbs — each points to repos/demos (actionable).  
-- Placeholders for automation so you can keep sections fresh without manual edits.  
-These patterns are used by many standout profiles and curated lists of great READMEs. :contentReference[oaicite:2]{index=2}
-
----
-
-## 🔁 Dynamic & Automation (optional, recommended)
-You can make parts of this README update automatically (recent posts, latest projects, visitor count, or a “Currently reading” line) using **GitHub Actions** or scripts that rewrite the README at intervals. Examples and tutorials exist showing the exact pattern (pull data -> replace between HTML comment markers -> commit). :contentReference[oaicite:3]{index=3}
-
-**Example markers you can use in README for automation:**
-```md
-<!-- START:recent-projects -->
-... auto-generated content here ...
-<!-- END:recent-projects -->
