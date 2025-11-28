@@ -1,64 +1,93 @@
-<!--
-  GitHub Profile README for Aswathi U K
-  - Copy this file into the repository named exactly: Aswathiuk
-  - Replace placeholders like YOUR_EMAIL_HERE if you want them public
--->
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Aswathi U K</h1>
+<h3 align="center">Data Analyst · Power BI · Data Visualization · AI/ML · SQL · Python</h3>
+
+<p align="center">✨ Transforming data into intelligence that moves the world forward ✨</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aswathi-uk-auk034/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aswathi%20U%20K-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 🎯 About Me  
+- 🔍 Data Analyst obsessed with uncovering patterns **hidden in chaos**  
+- 🚀 Turning **business questions** into **data-backed decisions**  
+- 🧠 Growing expertise in Data Science, Power BI, AI/ML, SQL & Python  
+- 🎨 Crafting **story-driven dashboards** that drive action  
+- 📈 Currently leveling up ML skills while building real-world projects  
+
+---
+
+### 🛠 Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,pytorch,tensorflow,sklearn,git,github&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+#### 📦 E-Commerce Data Warehouse  
+⭐ Building Retail Sales Intelligence  
+🔹 Designed star schema & automated ETL  
+🔹 Faster insights for product & revenue trends  
+**Tech:** SQL · Power BI · Data Modelling  
+🔗 Repo: Coming soon  
+
+#### 🎓 Student Lead Enquiry Dashboard  
+📊 Actionable insights for education business  
+🔹 Conversion & lead funnel tracking  
+🔹 Helps improve admissions decision-making  
+**Tech:** Power BI · DAX · Data Visualization  
+🔗 Repo: Coming soon  
+
+#### ⚡ Energy Anomaly Detection *(In Progress)*  
+🤖 Detecting abnormal energy consumption  
+🔹 ML + Streamlit dashboard  
+🔹 Better energy efficiency decision support  
+**Tech:** Python · ML · Streamlit  
+🔗 Repo: Coming soon  
+
+---
+
+### 📌 Quick Project Summary
+
+| Project | What it Solves | Tech | Status |
+|--------|----------------|------|--------|
+| E-Commerce Data Warehouse | Sales insights & performance analytics | SQL, Power BI | ✔ Complete |
+| Student Lead Enquiry Dashboard | Tracks conversions & KPIs | Power BI | ✔ Ready |
+| Energy Anomaly Detection | Detects abnormal usage | Python, Streamlit | 🔄 In Progress |
+
+---
+
+### 📊 GitHub Stats  
 
 <div align="center">
-  <h1>Hi 👋, I'm <b>Aswathi U K</b></h1>
-  <p><strong>Data Analyst</strong> · Power BI · Data Visualization · AI/ML · SQL · Python</p>
 
-  <!-- Personal unique line -->
-  <em>✨ *Transforming data into intelligence that moves the world forward.*
-</em>
-  <br/>
-  <p>
-    <a href="https://www.linkedin.com/in/aswathi-uk-auk034/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Aswathi%20UK-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
-  </p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_title=false&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathiuk&layout=compact&theme=tokyonight)
+
 </div>
 
 ---
 
-## 🔭 About Me
-- 📊 I’m a Data Analyst who loves turning raw data into meaningful insights that drive action.  
-- 🎯 Focus areas: **Data Science**, **Power BI / Dashboards**, **AI/ML basics**, **SQL**, **Excel**, **Python**.  
-- 🌱 Currently sharpening ML fundamentals and building cleaner, story-driven Power BI dashboards.
+### 🌱 On a Learning Journey  
+📘 Currently learning: Advanced Machine Learning  
+🎯 Goal: Become a top-tier Data Analyst & ML Engineer  
+🔥 Passion: **Transforming data into real business value**
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <!-- Personalize these cards by changing username=Aswathiuk or theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=radical" alt="GitHub stats" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswathiuk&theme=radical" alt="GitHub streak" width="420"/>
-</p>
-
-> _Stats cards above are images generated by github-readme-stats (embed as simple image links)._ :contentReference[oaicite:1]{index=1}
-
----
-
-## 🧩 Featured Projects
-> Short, recruiter-friendly entries — add repo/demo links after you push them.
-
-| Project | What I did | Tech |
-|---|---:|:---|
-| Customer Retention Dashboard | Built KPI-driven Power BI dashboard to analyze churn and retention. | Power BI, DAX |
-| Energy Anomaly Detection | Streamlit app + ML model to flag abnormal usage patterns. | Python, sklearn, Streamlit |
-| Data Cleaning Utilities | Reusable Power Query steps and Python scripts to standardize datasets. | Power Query, Python |
-
----
+### 👋 Let’s Connect!
+📩 Always open to exciting collaborations  
