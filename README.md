@@ -21,7 +21,6 @@
 ---
 
 ### 🔧 Tech Stack
-### 🔧 Tech Stack
 
 <p align="left">
   <!-- Programming & Core Data Skills -->
@@ -50,15 +49,17 @@
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| 🛒 **E-Commerce Data Warehouse** | Customer analytics & insights for an online retail business | Power BI, SQL | 🔗 [View Repo](https://github.com/aswathi-uk/ECommerce-DataWarehouse) |
-| 🎓 **Student Lead Enquiry Report** | CRM dashboard for enquiry monitoring at a training institute | Power BI, Data Cleaning | 🔗 [View Repo](https://github.com/aswathi-uk/student_enquiry_report) |
-| ⚡ **Energy Anomaly Detection** *(Work in progress)* | Identifying abnormal consumption patterns | Python, ML, Streamlit | 🔗 [View Repo](https://github.com/aswathi-uk/AUklearning) |
-
----
+|--------|-------------|------|:---:|
+| 🛒 **E-Commerce Data Warehouse & BI** | Data warehouse + analytics for retail insights | SQL, Power BI | 🔗 [View](https://github.com/Aswathiuk/e-commerce-data-warehouse) |
+| 🎓 **Student Enquiry Analytics Dashboard** | Lead funnel, conversion, counselor efficiency | Power BI, DAX | 🔗 [View](https://github.com/Aswathiuk/Student-Enquiry-Lead-Reports-for-Software-Training-Institute) |
+| ⚡ **Energy Anomaly Detection System** *(WIP)* | Detect & alert abnormal power usage | Python, ML, Streamlit | 🔗 [View](https://github.com/Aswathiuk/AUklearning) |
+| 📞 **Call Centre Dashboard** | Customer service analytics & KPIs | Power BI | 🔗 [View](https://github.com/Aswathiuk/Call-Centre-Dashboard) |
+| 📊 **Power BI Projects Collection** | A collection of Power BI dashboards | Power BI | 🔗 [View](https://github.com/Aswathiuk/power-bi-projects) |
+| 🎯 **Influencer Marketing Analytics** | Business analytics for marketing ROI | Power BI, Data Analytics | 🔗 [View](https://github.com/Aswathiuk/powerbi-influencer-marketing) |
+| 🧠 **Personal Learning & ML Experiments** | Experimental ML notebooks and practice | Python, ML | 🔗 [View](https://github.com/Aswathiuk/AUklearning) |
 
 ###  GitHub Analytics
 <p align="center">
