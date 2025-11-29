@@ -61,11 +61,11 @@
 | **Influencer Marketing Analytics** | Business analytics for marketing ROI | Power BI, Data Analytics | 🔗 [View](https://github.com/Aswathiuk/powerbi-influencer-marketing) |
 
 
-###  GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Aswathiuk&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aswathiuk&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
