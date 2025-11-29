@@ -21,14 +21,30 @@
 ---
 
 ### 🔧 Tech Stack
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+### 🔧 Tech Stack
+
+<p align="left">
+  <!-- Programming & Core Data Skills -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+  
+  <!-- Visualization -->
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4E9BCD?logo=python&logoColor=white" />
+
+  <!-- BI Tools -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?logo=microsoft-excel&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-42B029?logo=anaconda&logoColor=white" />
 </p>
 
 
