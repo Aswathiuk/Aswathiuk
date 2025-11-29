@@ -49,17 +49,17 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech | Link |
 |--------|-------------|------|:---:|
-| 🛒 **E-Commerce Data Warehouse & BI** | Data warehouse + analytics for retail insights | SQL, Power BI | 🔗 [View](https://github.com/Aswathiuk/e-commerce-data-warehouse) |
-| 🎓 **Student Enquiry Analytics Dashboard** | Lead funnel, conversion, counselor efficiency | Power BI, DAX | 🔗 [View](https://github.com/Aswathiuk/Student-Enquiry-Lead-Reports-for-Software-Training-Institute) |
-| ⚡ **Energy Anomaly Detection System** *(WIP)* | Detect & alert abnormal power usage | Python, ML, Streamlit | 🔗 [View](https://github.com/Aswathiuk/AUklearning) |
-| 📞 **Call Centre Dashboard** | Customer service analytics & KPIs | Power BI | 🔗 [View](https://github.com/Aswathiuk/Call-Centre-Dashboard) |
-| 📊 **Power BI Projects Collection** | A collection of Power BI dashboards | Power BI | 🔗 [View](https://github.com/Aswathiuk/power-bi-projects) |
-| 🎯 **Influencer Marketing Analytics** | Business analytics for marketing ROI | Power BI, Data Analytics | 🔗 [View](https://github.com/Aswathiuk/powerbi-influencer-marketing) |
-| 🧠 **Personal Learning & ML Experiments** | Experimental ML notebooks and practice | Python, ML | 🔗 [View](https://github.com/Aswathiuk/AUklearning) |
+| **E-Commerce Data Warehouse & BI** | Data warehouse + analytics for retail insights | SQL, Power BI | 🔗 [View](https://github.com/Aswathiuk/e-commerce-data-warehouse) |
+| **Student Enquiry Analytics Dashboard** | Lead funnel, conversion, counselor efficiency | Power BI, DAX | 🔗 [View](https://github.com/Aswathiuk/Student-Enquiry-Lead-Reports-for-Software-Training-Institute) |
+| **Energy Anomaly Detection System** *(WIP)* | Detect & alert abnormal power usage | Python, ML, Streamlit | 🔗 [View](https://github.com/Aswathiuk/AUklearning) |
+| **Call Centre Dashboard** | Customer service analytics & KPIs | Power BI | 🔗 [View](https://github.com/Aswathiuk/Call-Centre-Dashboard) |
+| **Power BI Projects Collection** | A collection of Power BI dashboards | Power BI | 🔗 [View](https://github.com/Aswathiuk/power-bi-projects) |
+| **Influencer Marketing Analytics** | Business analytics for marketing ROI | Power BI, Data Analytics | 🔗 [View](https://github.com/Aswathiuk/powerbi-influencer-marketing) |
+
 
 ###  GitHub Analytics
 <p align="center">
@@ -75,9 +75,9 @@
 - 💠 Microsoft Certified: Azure AI Fundamentals  
   [Credential ID: 90072298]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/public_url))
 - 💠 Microsoft Certified: Azure Fundamentals  
-  [Credential ID: 90085136]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455](https://www.credly.com/earner/earned/badge/8b451771-271a-4dff-8d3e-0407f4bb8ca6))
+  [Credential ID: 90085136]([[https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455](https://www.credly.com/earner/earned/badge/8b451771-271a-4dff-8d3e-0407f4bb8ca6)](https://www.credly.com/badges/8b451771-271a-4dff-8d3e-0407f4bb8ca6/public_url))
 - 💠 Microsoft Certified: Azure Data Fundamentals  
-  [Credential ID: 90065243]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=456](https://www.credly.com/earner/earned/badge/00b72eca-4d53-4f12-8bb9-8e304b7a4e43))
+  [Credential ID: 90065243]([[https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=456](https://www.credly.com/earner/earned/badge/00b72eca-4d53-4f12-8bb9-8e304b7a4e43)](https://www.credly.com/badges/00b72eca-4d53-4f12-8bb9-8e304b7a4e43/public_url))
 - 💠 Microsoft Certified: Power Platform Fundamentals  
   [Credential ID: 90065243](https://www.credly.com/badges/660e8101-ff73-468c-a1dd-8e5d90e72264/linked_in_profile)
 - 💠 Microsoft Certified: Security, Compliance & Identity Fundamentals  
