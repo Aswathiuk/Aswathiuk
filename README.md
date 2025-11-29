@@ -81,7 +81,7 @@
 - 💠 Microsoft Certified: Power Platform Fundamentals  
   [Credential ID: 90065243](https://www.credly.com/badges/660e8101-ff73-468c-a1dd-8e5d90e72264/linked_in_profile)
 - 💠 Microsoft Certified: Security, Compliance & Identity Fundamentals  
-  [Credential ID: 90089476]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=477](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/linked_in_profile))
+  [Credential ID: 90089476](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/linked_in_profile))
 
 ####  Data Science & AI Certifications
 -  Data Science Orientation — Coursera  
