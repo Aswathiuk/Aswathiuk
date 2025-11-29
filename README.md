@@ -1,93 +1,68 @@
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Aswathi U K</h1>
-<h3 align="center">Data Analyst · Power BI · Data Visualization · AI/ML · SQL · Python</h3>
-
-<p align="center">✨ Transforming data into intelligence that moves the world forward ✨</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Aswathi%20UK&fontSize=50&fontColor=ffffff&fontAlignY=35" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswathi-uk-auk034/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aswathi%20U%20K-blue?style=flat-square&logo=linkedin" />
+  <b>Data Science • Machine Learning • Analytics Enthusiast</b><br>
+  Building intelligent solutions using data 🚀
+</p>
+
+---
+
+### 🧠 About Me
+- 🎓 BCA Graduate | Passionate about AI, ML & Data Analytics  
+- 📊 Always exploring — from data pipelines to anomaly detection  
+- 💼 Current Role: Data Science Intern  
+- 📍 India  
+- ✨ Actively looking for opportunities in Data Science & AI
+
+---
+
+### 🔧 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,py,opencv,git,github,pandas,numpy,matplotlib,seaborn,powerbi,mysql,sqlite,vscode&theme=dark" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech | Link |
+|--------|-------------|------|------|
+| 🛒 **E-Commerce Data Warehouse** | Customer analytics & insights for an online retail business | Power BI, SQL | 🔗 [View Repo](https://github.com/aswathi-uk/ECommerce-DataWarehouse) |
+| 🎓 **Student Lead Enquiry Report** | CRM dashboard for enquiry monitoring at a training institute | Power BI, Data Cleaning | 🔗 [View Repo](https://github.com/aswathi-uk/student_enquiry_report) |
+| ⚡ **Energy Anomaly Detection** *(Work in progress)* | Identifying abnormal consumption patterns | Python, ML, Streamlit | 🔗 [View Repo](https://github.com/aswathi-uk/AUklearning) |
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aswathi-uk&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathi-uk&theme=radical" />
+</p>
+
+---
+
+### 🏆 Achievements
+- Quickdraw badge — (aim accuracy recognized by GitHub) 🥇  
+- Successfully launched multiple data dashboards for real clients  
+- Completed robotics and AI certifications
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/aswathi-uk">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45px"/>
+  </a>
+  <a href="mailto:aswathiukofficial@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45px"/>
   </a>
 </p>
 
 ---
 
-### 🎯 About Me  
-- 🔍 Data Analyst obsessed with uncovering patterns **hidden in chaos**  
-- 🚀 Turning **business questions** into **data-backed decisions**  
-- 🧠 Growing expertise in Data Science, Power BI, AI/ML, SQL & Python  
-- 🎨 Crafting **story-driven dashboards** that drive action  
-- 📈 Currently leveling up ML skills while building real-world projects  
-
----
-
-### 🛠 Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,pytorch,tensorflow,sklearn,git,github&theme=dark" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 </p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge" />
-</p>
-
----
-
-### 🚀 Featured Projects  
-
-#### 📦 E-Commerce Data Warehouse  
-⭐ Building Retail Sales Intelligence  
-🔹 Designed star schema & automated ETL  
-🔹 Faster insights for product & revenue trends  
-**Tech:** SQL · Power BI · Data Modelling  
-🔗 Repo: Coming soon  
-
-#### 🎓 Student Lead Enquiry Dashboard  
-📊 Actionable insights for education business  
-🔹 Conversion & lead funnel tracking  
-🔹 Helps improve admissions decision-making  
-**Tech:** Power BI · DAX · Data Visualization  
-🔗 Repo: Coming soon  
-
-#### ⚡ Energy Anomaly Detection *(In Progress)*  
-🤖 Detecting abnormal energy consumption  
-🔹 ML + Streamlit dashboard  
-🔹 Better energy efficiency decision support  
-**Tech:** Python · ML · Streamlit  
-🔗 Repo: Coming soon  
-
----
-
-### 📌 Quick Project Summary
-
-| Project | What it Solves | Tech | Status |
-|--------|----------------|------|--------|
-| E-Commerce Data Warehouse | Sales insights & performance analytics | SQL, Power BI | ✔ Complete |
-| Student Lead Enquiry Dashboard | Tracks conversions & KPIs | Power BI | ✔ Ready |
-| Energy Anomaly Detection | Detects abnormal usage | Python, Streamlit | 🔄 In Progress |
-
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_title=false&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswathiuk&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-### 🌱 On a Learning Journey  
-📘 Currently learning: Advanced Machine Learning  
-🎯 Goal: Become a top-tier Data Analyst & ML Engineer  
-🔥 Passion: **Transforming data into real business value**
-
----
-
-### 👋 Let’s Connect!
-📩 Always open to exciting collaborations  
