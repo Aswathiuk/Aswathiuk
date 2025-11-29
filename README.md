@@ -21,7 +21,7 @@
 ---
 
 ### 🔧 Tech Stack
-p>
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" /> 
@@ -56,15 +56,15 @@ p>
 
 ####  Microsoft Certifications
 - 💠 Microsoft Certified: Azure AI Fundamentals  
-  [Credential ID: 90072298](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455)
+  [Credential ID: 90072298]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/public_url))
 - 💠 Microsoft Certified: Azure Fundamentals  
-  [Credential ID: 90085136](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455)
+  [Credential ID: 90085136]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=455](https://www.credly.com/earner/earned/badge/8b451771-271a-4dff-8d3e-0407f4bb8ca6))
 - 💠 Microsoft Certified: Azure Data Fundamentals  
-  [Credential ID: 90065243](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=456)
+  [Credential ID: 90065243]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=456](https://www.credly.com/earner/earned/badge/00b72eca-4d53-4f12-8bb9-8e304b7a4e43))
 - 💠 Microsoft Certified: Power Platform Fundamentals  
   [Credential ID: 90065243](https://www.credly.com/badges/660e8101-ff73-468c-a1dd-8e5d90e72264/linked_in_profile)
 - 💠 Microsoft Certified: Security, Compliance & Identity Fundamentals  
-  [Credential ID: 90089476](https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=477)
+  [Credential ID: 90089476]([https://www.certiport.com/portal/Pages/PrintTranscriptInfo.aspx?action=Cert&format=pdf&id=477](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/linked_in_profile))
 
 ####  Data Science & AI Certifications
 -  Data Science Orientation — Coursera  
@@ -91,7 +91,7 @@ p>
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/aswathi-uk">
+  <a href="[https://www.linkedin.com/in/aswathi-uk](https://www.linkedin.com/in/aswathi-uk-auk034/)">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45px"/>
   </a>
   <a href="mailto:aswathiuk034@gmail.com">
