@@ -59,17 +59,7 @@
 | **Call Centre Dashboard** | Customer service analytics & KPIs | Power BI | 🔗 [View](https://github.com/Aswathiuk/Call-Centre-Dashboard) |
 | **Power BI Projects Collection** | A collection of Power BI dashboards | Power BI | 🔗 [View](https://github.com/Aswathiuk/power-bi-projects) |
 | **Influencer Marketing Analytics** | Business analytics for marketing ROI | Power BI, Data Analytics | 🔗 [View](https://github.com/Aswathiuk/powerbi-influencer-marketing) |
-
-
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aswathiuk&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
-
 ### 🏅 Certifications
 
 ####  Microsoft Certifications
@@ -106,6 +96,20 @@
 
 
 ---
+
+
+###  Impact Highlights
+
+- 🔹 7+ GitHub projects showcasing end-to-end data solutions  
+- 🔹 Power BI dashboards used in real business decision-making  
+- 🔹 Machine Learning project deployed with Streamlit  
+- 🔹 SQL + Data Modeling + ETL for Data Warehouse analytics  
+
+
+>  Always learning, building, and contributing to data-driven innovation.
+
+---
+
 
 ### 🌐 Connect with Me
 <p align="center">
