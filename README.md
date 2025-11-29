@@ -62,9 +62,10 @@
 
 
 ###  GitHub Analytics
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aswathi-uk&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aswathi-uk&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aswathiuk&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Aswathiuk&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
