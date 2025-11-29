@@ -64,7 +64,7 @@
 
 ####  Microsoft Certifications
 - 💠 Microsoft Certified: Azure AI Fundamentals  
-  [Credential ID: 90072298]((https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/public_url))
+  [Credential ID: 90072298](https://www.credly.com/badges/bcb189dd-e362-42c5-8280-b6f8cd7617b3/public_url)
 - 💠 Microsoft Certified: Azure Fundamentals  
   [Credential ID: 90085136](https://www.credly.com/earner/earned/badge/8b451771-271a-4dff-8d3e-0407f4bb8ca6)
 - 💠 Microsoft Certified: Azure Data Fundamentals  
