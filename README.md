@@ -113,7 +113,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/aswathi-uk](https://www.linkedin.com/in/aswathi-uk-auk034/)">
+  <a href="[h[ttps://www.linkedin.com/in/aswathi-uk-auk034/]">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45px"/>
   </a>
   <a href="mailto:aswathiuk034@gmail.com">
