@@ -83,7 +83,7 @@
   [Credential ID: NTEJHWSV](https://www.mygreatlearning.com/certificate/NTEJHWSV)
 -  How to Build Your Own Chatbot — Great Learning  
   [Credential ID: JIGMNCWY](https://www.mygreatlearning.com/certificate/JIGMNCWY)
-- � Programming Basics — Great Learning  
+-  Programming Basics — Great Learning  
   [Credential ID: BJMPJVLH](https://www.mygreatlearning.com/certificate/BJMPJVLH)
 -  Machine Learning for Soil & Crop Management — NPTEL  
   [Credential ID: NPTEL24AG02S1061400194](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/126/noc24-ag02/Course/NPTEL24AG02S106140019430420463.pdf)
